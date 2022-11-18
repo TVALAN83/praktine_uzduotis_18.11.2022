@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+}
+.container_1{
+    margin:50px 50px;
+    width: 300px;
+    text-align: center;
+}
+.img_1{
+background-color: rgb(177, 219, 245);
+width: 250px;
+height: 250px;
+}
+.img_1 h3{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: rgb(177, 219, 245) ;
+    border: 5px solid  rgb(177, 219, 245);
+border-radius: 50%;
+position: relative;
+top: -20px;
+left: -10px;
+font-size: 30px;
+}
+.move{
+    margin-left: -30px;
+}
+.rocket{
+   width: 50%;
+   position: relative;
+   top: 40px;
+}
+.text_color{
+    color: red;
+    font-weight: bold;
+    font-weight;
+}
+p{
+    line-height: 1.5;
+}
+
+.container_2{
+    margin:50px 50px;
+    width: 300px;
+    text-align: center;
+}
+.img_2{
+background-color: rgb(19, 132, 202);
+width: 250px;
+height: 250px;
+}
+.img_2 h3{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: rgb(19, 132, 202) ;
+    border: 5px solid  rgb(19, 132, 202);
+border-radius: 50%;
+position: relative;
+top: -20px;
+left: -10px;
+font-size: 30px;
+}
+.move{
+    margin-left: -30px;
+}
+.mind{
+   width: 50%;
+   position: relative;
+   top: 40px;
+}
+.text_color{
+    color: red;
+    font-weight: bold;
+    font-weight;
+}
+p{
+    line-height: 1.5;
+}
+
+.container_3{
+    margin:50px 50px;
+    width: 300px;
+    text-align: center;
+}
+.img_3{
+background-color: rgb(202, 19, 19);
+width: 250px;
+height: 250px;
+}
+.img_3 h3{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: rgb(202, 19, 19) ;
+    border: 5px solid  rgb(202, 19, 19);
+border-radius: 50%;
+position: relative;
+top: -20px;
+left: -10px;
+font-size: 30px;
+}
+.move{
+    margin-left: -30px;
+}
+.sales{
+   width: 50%;
+   position: relative;
+   top: 40px;
+}
+.text_color{
+    color: red;
+    font-weight: bold;
+    font-weight;
+}
+p{
+    line-height: 1.5;
+}
+
+.container_4{
+    margin:50px 50px;
+    width: 300px;
+    text-align: center;
+}
+.img_4{
+background-color: rgb(151, 147, 147);
+width: 250px;
+height: 250px;
+}
+.img_4 h3{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    color: rgb(151, 147, 147) ;
+    border: 5px solid  rgb(151, 147, 147);
+border-radius: 50%;
+position: relative;
+top: -20px;
+left: -10px;
+font-size: 30px;
+}
+.move{
+    margin-left: -30px;
+}
+.arrow{
+   width: 50%;
+   position: relative;
+   top: 40px;
+}
+.text_color{
+    color: red;
+    font-weight: bold;
+    font-weight;
+}
+p{
+    line-height: 1.5;
+}
+
+
+
